@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Utnosti
+- 👋 Hi, I’m @latestdesign
 - 👀 I’m interested in artificial intelligence, neural networks, deep learning, technology and algorithms in general, as well as how to implement current knowledge and accelerating innovations into useful products!
 - 🌱 I’m currently studying applied mathematics, engineering, telecommunications and computer science.
 - 💞️ I’m looking to collaborate on deep learning projects to get some experience and improve my knowledge in the field of AI. I'm getting to know coding competitions and further programmation projects, up to anything that'll expand my horizon!
